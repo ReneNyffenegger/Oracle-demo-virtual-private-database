@@ -1,2 +1,3 @@
-# Oracle-demo-virtual-private-database
-Demonstration of Oracle's Virtual Private Database (VPD)
+# Oracle demo: Virtual Private Database
+
+https://renenyffenegger.ch/notes/development/databases/Oracle/security/VPD/index
